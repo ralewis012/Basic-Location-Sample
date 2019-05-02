@@ -63,6 +63,8 @@ public class MainActivity extends ActionBarActivity implements
 
     protected static final String TAG = "main-activity";
 
+    protected static final String TAG2 = "main-activity";
+
     protected static final String ADDRESS_REQUESTED_KEY = "address-request-pending";
     protected static final String LOCATION_ADDRESS_KEY = "location-address";
 
